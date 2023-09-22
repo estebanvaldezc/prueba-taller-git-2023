@@ -1,2 +1,2 @@
-Informacion archivo RUN.md
-prueba fork 2023 del taller 
+Informacion archivo RUN.md del taller de pasantia
+prueba fork 2023 del taller SODEP  
